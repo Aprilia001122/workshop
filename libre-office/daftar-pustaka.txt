@@ -1,0 +1,18 @@
+Judul: Python dan Pemrograman Linux
+Pengarang: Noprianto
+Tahun: 2002
+Penerbit: ANDI
+Kota: Yogyakarta
+
+
+Judul: Sistem Waktu Nyata
+Pengarang: Bambang Sridadi
+Penerbit: Informatika
+Tahun: 2010
+Kota: Bandung
+
+Judul: Artificial Intelligence
+Pengarang: Suyanto, ST, MSC.
+Penerbit: Informatika
+Kota: Bandung
+Tahun 2011
